@@ -1,2 +1,1 @@
-# my_clisp
-clisp experiments
+read me please
